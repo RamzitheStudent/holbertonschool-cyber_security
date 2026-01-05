@@ -1,1 +1,1 @@
-ip && ip.proto != 1 && ip.proto != 6 && ip.proto != 17
+ip && !(ip.proto == 1 || ip.proto == 6 || ip.proto == 17)
